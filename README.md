@@ -5,7 +5,7 @@
 ## Background
 **GNOD** is a website that provides recommendations for music, art, literature, and products based on filtering algorithms. 
 
-We are data analysts hired to create a **song recommender** of popular songs for **GNOD**, by clustering songs together based on their sound features.
+We are 3 data analysts hired to create a **song recommender** of popular songs for **GNOD**, by clustering songs together based on their sound features.
 
 ## Process
 1. **Prototype 1**: Create a list of Top Songs and Artists from webscraping websites like Billboard Hot 100. 

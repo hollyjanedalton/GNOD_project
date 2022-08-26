@@ -8,7 +8,8 @@ We are data analysts hired to create a **song recommender** of popular songs for
 ## Process
 1. **Prototype 1**: Create a list of Top Songs and Artists from webscraping websites like Billboard Hot 100. 
       - Create a recommender where the user inputs a song title and check if that song is in the Hot 100 list.
-      -If the song is on the list, return a random song and artists from the list. If it's not on the list, let the user know there is no recommendation at this time.
+      - If the song is on the list, return a random song and artists from the list. 
+      - If it's not on the list, let the user know there is no recommendation at this time.
 2. **Connect to Spotify API** and import at least 10,000 songs 
 3. **Prototype 2**: Cluster the 10,000 songs into 6 groups
       - Build a model using K-means clustering (6 clusters), using the audio features of the 10,000 songs on spotify
